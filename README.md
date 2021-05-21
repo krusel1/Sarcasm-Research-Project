@@ -8,3 +8,4 @@ Critical findings: This research proves the hypothesis that contextual informati
 
 Will need:
 Download pre-trained word vectors...https://fasttext.cc/docs/en/english-vectors.html
+Hugging face pretrained model...https://huggingface.co/mrm8488/t5-base-finetuned-emotion
