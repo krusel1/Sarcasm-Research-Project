@@ -13,7 +13,7 @@ Data collected from: https://github.com/EducationalTestingService/sarcasm
 
 Code language: Python 3.6
 
-Python libraries used: LIWC, Vader, NLTK, VAD, textblob, Hugging face (as a pretrained model), SHAPLEY
+Python libraries used: LIWC, Vader, NLTK, VAD, textblob, SHAPLEY
 
 
 
