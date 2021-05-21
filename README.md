@@ -5,3 +5,6 @@ Hypotheses: Sarcasm tweets and threads tend to be associated with a negative emo
 Code language: Python 3.6
 Python libraries used: LIWC, Vader, NLTK, VAD, textblob, Hugging face (as a pretrained model), SHAPLEY
 Critical findings: This research proves the hypothesis that contextual information is absolutely necessary for sarcasm detection. When response was only considered, the classifer performed much lower. The more hashtags in the data set, the higher the results of the classifier. Hash tags appear to be an indicator of sarcasm. Lastly, sarcastic tweets and threads are associated with a negative emotion; anger, as well as their contextual counterpart. Non-sarcastic contexts typically reply with a positive emotion;joy. 
+
+Will need:
+Download pre-trained word vectors...https://fasttext.cc/docs/en/english-vectors.html
