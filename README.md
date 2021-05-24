@@ -39,4 +39,5 @@ Column Name | Description
 `Response only Classification results Select Features.ipynb`|Final notebook for select Linguistic features and Count features for response
 
 
-*Original paper published in 2020 is under ''
+*Original paper published in 2020 based of the Twitter experiments is listed as a file under  'Final_Sarcasm_CLiC_IT'
+*Paper on the current work is located under the file ".pdf" 
