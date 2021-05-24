@@ -26,8 +26,8 @@ Critical findings: This research proves the hypothesis that contextual informati
 
 
 ## Notebooks:
-Column Name   Description
-------------|-----------
+Column Name | Description
+------------|-------------
 `Baseline Classification Results Context + Response.ipynb`|Final notebook for Linguistic feature and Count features for response and context
 `Baseline Classification Results CountVectors.ipynb`|Final notebook for Linguistic feature and Count features for response and context
 `Baseline Classification Results Response.ipynb`|Final notebook for Linguistic feature and Count features for response
