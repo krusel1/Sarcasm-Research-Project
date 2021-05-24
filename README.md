@@ -40,4 +40,4 @@ Column Name | Description
 
 
 *Original paper published in 2020 based of the Twitter experiments is listed as a file under  'Final_Sarcasm_CLiC_IT'
-*Paper on the current work is located under the file ".pdf" 
+*Paper on the current work is located under the file "Research_for_Comp__Ling (1).pdf" 
