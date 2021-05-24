@@ -26,7 +26,7 @@ Python libraries used: LIWC, Vader, NLTK, textblob, SHAPLEY
 Critical findings: This research proves the hypothesis that contextual information is absolutely necessary for sarcasm detection. When response was only considered, the classifer performed much lower. The more hashtags in the data set, the higher the results of the classifier. Hash tags appear to be an indicator of sarcasm. Lastly, sarcastic tweets and threads are associated with a negative emotion; anger, as well as their contextual counterpart. Non-sarcastic contexts typically reply with a positive emotion;joy. 
 
 
-
+Description of all experiments run
 ## Notebooks:
 Column Name | Description
 ------------|-------------
