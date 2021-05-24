@@ -2,10 +2,12 @@
 Title: Automatic Sarcasm Detection Across Two Social Media Platforms
 
 
+
+
 Introduction: This repository explores a computational approach, specially using NLP features, to automatic sarcasm detection across two social media platforms; Twitter and Reddit. The linguistic features that are investigated are a combination of count, stylistic, and psychological features. The features are first run on a corpus of tweets from Twitter and separately on a corpus of Reddit threads, with and without context. The two results of each social media platform are compared. 
 
 
-Hypotheses: Sarcasm tweets and threads tend to be associated with a negative emotion. The presence of hash tags is crucial for sarcasm detection. Sarcastic responses are typically incongruent in terms of senitment and emotion with their contextual counterpart. Context is absolutely critical information for sarcasm detection. 
+Hypotheses: Sarcasm tweets and threads tend to be associated with a negative emotion. The presence of hash tags is crucial for sarcasm detection. Sarcastic responses are typically incongruent in terms of senitment and emotion with their contextual counterpart. Context is absolutely critical information for sarcasm detection. A lower lexical diversity in a coporus produces higher accuracy rates in sarcasm detection. 
 
 Will need:
 
